@@ -1,0 +1,8 @@
+stats.csv
+*~
+*.pyc
+*_stats.csv
+load*stats.m
+stuff
+.ipynb_checkpoints/
+output
